@@ -31,6 +31,45 @@ body::after {
   pointer-events: none;
 }
 
+.text-white {
+  color: white !important;
+}
+.bg-sky-500 {
+  background-color: #0ea5e9 !important;
+}
+.bg-sky-600 {
+  background-color: rgb(2 132 199) !important;
+}
+.bg-pink-600 {
+  background-color: rgb(219 39 119) !important;
+}
+.bg-pink-700 {
+  background-color: rgb(190 24 93) !important;
+}
+.bg-blue-600 {
+  background-color: rgb(37 99 235) !important;
+}
+.bg-blue-700 {
+  background-color: rgb(37 99 235) !important;
+}
+
+.bg-pink-500 {
+  background-color: rgb(236 72 153) !important;
+}
+.bg-black {
+  background-color: rgb(0, 0, 0) !important;
+}
+
+.bg-zinc-800 {
+  background-color: rgb(39 39 42) !important;
+}
+.bg-teal-500 {
+  background-color: rgb(20 184 166) !important;
+}
+
+.bg-teal-500 {
+  background-color: rgb(13 148 136);
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
