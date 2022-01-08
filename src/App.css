@@ -56,7 +56,7 @@ body::after {
   -o-border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb:window-inactive {
-  background: rgba(187, 182, 182, 0.8);
+  background: rgba(124, 124, 124, 0.8);
 }
 .text-white {
   color: white !important;
