@@ -197,7 +197,7 @@ function App() {
           </div>
           <a
             className="App-link"
-            href="mailto: m.refaldorachman@gmail.com"
+            href="mailto:mohrefaldorachman@gmail.com"
             rel="noopener noreferrer"
             download="cv refaldo"
           >
