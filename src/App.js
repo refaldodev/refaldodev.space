@@ -3,8 +3,8 @@ import ProfileImage from "../src/img/pp.jpg";
 import Cv from "../src/cv.pdf";
 function App() {
   return (
-    <div className="App">
-      <header className="container mx-auto md:container md:mx-auto  sm:container sm:mx-auto  lg:container lg:mx-auto  xl:container xl:mx-auto pl-4 pr-4">
+    <div className="App container mx-auto md:container md:mx-auto  sm:container sm:mx-auto  lg:container lg:mx-auto  xl:container xl:mx-auto pl-4 pr-4">
+      <header>
         <div className="header ">
           <div className="profile-img mt-10">
             <img
@@ -22,6 +22,8 @@ function App() {
             </h2>
           </div>
         </div>
+      </header>
+      <main>
         <div className="main mt-10 ">
           <div className="title">
             <h1 className="font-extrabold	 text-lg tracking-wide text-white  ">
@@ -208,7 +210,7 @@ function App() {
                   focusable="false"
                   data-prefix="far"
                   data-icon="envelope"
-                  class="svg-inline--fa fa-envelope fa-w-16"
+                  className="svg-inline--fa fa-envelope fa-w-16"
                   role="img"
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 512 512"
@@ -260,7 +262,7 @@ function App() {
             </div>
           </a>
         </div>
-      </header>
+      </main>
     </div>
   );
 }
