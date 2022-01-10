@@ -94,8 +94,11 @@ body::after {
   background-color: rgb(20 184 166) !important;
 }
 
-.bg-teal-500 {
-  background-color: rgb(13 148 136);
+.bg-teal-600 {
+  background-color: rgb(13 148 136) !important;
+}
+.bg-emerald-500 {
+  background-color: rgb(16 185 129) !important;
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
