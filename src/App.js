@@ -204,7 +204,7 @@ function App() {
             rel="noopener noreferrer"
             download="cv refaldo"
           >
-            <div className="links bg-teal-500	p-4 max-w-lg mx-auto mt-3 flex items-center align-middle text-white rounded-full hover:bg-teal-600	">
+            <div className="links bg-yellow-400		p-4 max-w-lg mx-auto mt-3 flex items-center align-middle text-white rounded-full hover:bg-yellow-500		">
               <div className="svg-icon w-1/6 ">
                 <svg
                   aria-hidden="true"
