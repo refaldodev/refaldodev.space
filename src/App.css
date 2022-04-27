@@ -4,7 +4,7 @@
 
 /* when user use background image please add this bg-image */
 body {
-  background-image: url("https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+  background-image: url("https://images.unsplash.com/photo-1566204978576-77f6addcef4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -21,7 +21,7 @@ body::after {
   left: 0;
   right: 0;
   z-index: -1; /* needed to keep in the background */
-  background: url("https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80")
+  background: url("https://images.unsplash.com/photo-1566204978576-77f6addcef4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80")
     center center;
   background-size: cover;
 }
