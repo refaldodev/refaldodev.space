@@ -126,6 +126,13 @@ function App() {
               <div className="space  w-1/6"></div>
             </div>
           </a>
+        </div>
+        <div className="main mt-10 mb-20">
+          <div className="title">
+            <h1 className="font-extrabold	 text-lg tracking-wide text-white  ">
+              Work
+            </h1>
+          </div>
           <a
             className="App-link"
             href="https://dribbble.com/refaldoms"
@@ -190,13 +197,6 @@ function App() {
               <div className="space  w-1/6"></div>
             </div>
           </a>
-        </div>
-        <div className="main mt-10 mb-20">
-          <div className="title">
-            <h1 className="font-extrabold	 text-lg tracking-wide text-white  ">
-              Work
-            </h1>
-          </div>
           <a
             className="App-link"
             href="mailto:mohrefaldorachman@gmail.com"
