@@ -20,8 +20,14 @@ const Home = () => {
         </div>
       </section>
       <Career /> */}
-      <img src={construction} alt="construction" className="img-construction" />
-      <h6 className="text-base text-center">Website is under construction</h6>
+      <div className="h-screen">
+        <img
+          src={construction}
+          alt="construction"
+          className="img-construction"
+        />
+        <h6 className="text-base text-center">Website is under construction</h6>
+      </div>
     </>
   );
 };

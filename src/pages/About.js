@@ -7,7 +7,7 @@ const About = () => {
   return (
     <>
       <Navbar />
-      <div>
+      <div className="h-screen">
         <img
           src={construction}
           alt="construction"
